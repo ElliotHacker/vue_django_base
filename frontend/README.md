@@ -1,8 +1,6 @@
-﻿# vue_django_base
-基于vue+elementUI+django ORM框架的基础框架
+# frontend
 
-
-frontend 前端
+> A Vue.js project
 
 ## Build Setup
 
@@ -29,17 +27,4 @@ npm run e2e
 npm test
 ```
 
-backend 后端
-
-设置数据库连接
-#生成迁移文件
-
-python manage.py makemigrations
-
-#执行迁移
-
-python manage.py migrate
-
-#build
-
-python manage.py runservers
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
